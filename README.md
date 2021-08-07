@@ -17,6 +17,3 @@ This plugins scrapes page to get list of the today's name days and shows it on t
 2. Activate the plugin through the 'Plugins' screen in WordPress
 3. Use the Settings->Coffee Friend Name days screen to configure the plugin
 4. Use shortcode [cf_fr_namedays] to show today's name days on any post or page. Shortcode doesn't accept any arguments.
-
-
-some change
