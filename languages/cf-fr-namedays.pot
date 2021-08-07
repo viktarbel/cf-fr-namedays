@@ -1,0 +1,78 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Coffee Friend Name days\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-08-02 15:45+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.3; wp-5.8\n"
+"X-Domain: cf-fr-namedays"
+
+#. Name of the plugin
+#: admin/admin-menu.php:28
+msgid "Coffee Friend Name days"
+msgstr ""
+
+#: admin/admin-menu.php:27
+msgid "Coffee Friend Name days Settings"
+msgstr ""
+
+#: admin/settings-register.php:60
+msgid "Custom Message"
+msgstr ""
+
+#: admin/settings-register.php:69
+msgid "Custom Refresh Time"
+msgstr ""
+
+#: admin/settings-register.php:64
+msgid "Custom text and/or markup before the name days list"
+msgstr ""
+
+#: admin/settings-register.php:40
+msgid "Customize Plugin Settings"
+msgstr ""
+
+#: cf-fr-namedays.php:57
+msgid "List of today's name days"
+msgstr ""
+
+#: admin/settings-validate.php:46
+msgid "Please enter valid refresh time"
+msgstr ""
+
+#: public/public-functions.php:78
+msgid "Sorry, there are no today's name days. Please check back later."
+msgstr ""
+
+#: admin/settings-callbacks.php:15
+msgid "These settings enable you to customize the plugin settings."
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"This plugin shows today's name days from https://day.lt/. Use shortcode "
+"[cf_fr_namedays] to show today's name days on any post or page."
+msgstr ""
+
+#: admin/settings-register.php:73
+msgid "Time after which a new remote request will be made."
+msgstr ""
+
+#: admin/settings-register.php:73
+msgid ""
+"Use value in seconds. Ex.: 600 equals 10 minutes; 3600 - 1 hour (default); "
+"21600 - 6 hours; 43200 - 12 hours; and so forth"
+msgstr ""
+
+#. Author of the plugin
+msgid "Viktar Ramanovich"
+msgstr ""

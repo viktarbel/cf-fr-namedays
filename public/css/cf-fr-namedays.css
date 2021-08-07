@@ -1,0 +1,22 @@
+/* Coffee Friend Name days - Public Styles */
+
+#namedays {
+	margin-bottom: 20px;
+}
+#namedays h3 {
+	font-size: 30px;
+	margin-bottom: 20px;
+}
+#namedays ul.namedays-list {
+	list-style-type: disc;
+	margin: 0;
+	padding-left: 45px;
+}
+#namedays ul.namedays-list li {
+	list-style-type: disc;
+	margin-bottom: 10px;
+	font-size: 22px;
+}
+#namedays .hidden-message {
+	display: none;
+}
